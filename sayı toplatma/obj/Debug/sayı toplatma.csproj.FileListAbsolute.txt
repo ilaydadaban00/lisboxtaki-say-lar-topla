@@ -1,0 +1,10 @@
+C:\Users\ben\source\repos\sayı toplatma\sayı toplatma\bin\Debug\sayı toplatma.exe.config
+C:\Users\ben\source\repos\sayı toplatma\sayı toplatma\bin\Debug\sayı toplatma.exe
+C:\Users\ben\source\repos\sayı toplatma\sayı toplatma\bin\Debug\sayı toplatma.pdb
+C:\Users\ben\source\repos\sayı toplatma\sayı toplatma\obj\Debug\sayı toplatma.csproj.AssemblyReference.cache
+C:\Users\ben\source\repos\sayı toplatma\sayı toplatma\obj\Debug\sayı_toplatma.Form1.resources
+C:\Users\ben\source\repos\sayı toplatma\sayı toplatma\obj\Debug\sayı_toplatma.Properties.Resources.resources
+C:\Users\ben\source\repos\sayı toplatma\sayı toplatma\obj\Debug\sayı toplatma.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\sayı toplatma\sayı toplatma\obj\Debug\sayı toplatma.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\sayı toplatma\sayı toplatma\obj\Debug\sayı toplatma.exe
+C:\Users\ben\source\repos\sayı toplatma\sayı toplatma\obj\Debug\sayı toplatma.pdb
